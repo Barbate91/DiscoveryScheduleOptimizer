@@ -22,6 +22,7 @@
  * var maxRun = true; -- False doesn't reset max run time and will ignore existing run times
  *
  * TODO: Evaluate supporting other schedule types (daily/weekly/monthly currently supported)
+ * TODO: Add additional error handling and notify user in form instead of syslog
  *
  * @author jake.armstrong
  */
